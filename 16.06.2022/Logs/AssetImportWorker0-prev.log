@@ -1,0 +1,789 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ayxanagayev/Desktop/GitHubProjects/14.06.2022/16.06.2022
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53485
+Successfully changed project path to: /Users/ayxanagayev/Desktop/GitHubProjects/14.06.2022/16.06.2022
+/Users/ayxanagayev/Desktop/GitHubProjects/14.06.2022/16.06.2022
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ayxanagayev/Desktop/GitHubProjects/14.06.2022/16.06.2022/Assets
+GfxDevice: creating device client; threaded=0
+2022-06-16 19:40:38.643 Unity[13997:630132] (null) preferred device: Apple M1 (high power)
+2022-06-16 19:40:38.643 Unity[13997:630132] Metal devices available: 1
+2022-06-16 19:40:38.643 Unity[13997:630132] 0: Apple M1 (high power)
+2022-06-16 19:40:38.643 Unity[13997:630132] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56997
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003432 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 23.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.412 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001210 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.532 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.7 MB.
+System memory in use after: 115.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.177125 ms (FindLiveObjects: 0.083375 ms CreateObjectMapping: 0.022292 ms MarkObjects: 1.005000 ms  DeleteObjects: 0.065833 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/xbot@Standing Torch Run Left (1).fbx
+  artifactKey: Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Standing Torch Run Left (1).fbx using Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08d94fbb59c9f66ba4a95d1876276d1') in 0.480189 seconds
+  Import took 0.482122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/xbot@Jog Forward Diagonal (1).fbx
+  artifactKey: Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Jog Forward Diagonal (1).fbx using Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a57166b0cf0ee2f678f377a243703c5') in 0.004970 seconds
+  Import took 0.006588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/xbot@Jog Backward Diagonal.fbx
+  artifactKey: Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Jog Backward Diagonal.fbx using Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e51fc2fe4007c0040b24797ee7744d') in 0.005560 seconds
+  Import took 0.007184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/xbot@Jog Forward Diagonal.fbx
+  artifactKey: Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Jog Forward Diagonal.fbx using Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cfa13accfec9898e49c7bfa70dc3756') in 0.005593 seconds
+  Import took 0.007225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/xbot@Jogging Stumble.fbx
+  artifactKey: Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Jogging Stumble.fbx using Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb90e6922bdabcf07f709b59a245a901') in 0.006243 seconds
+  Import took 0.007650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/xbot@Jog Backward Diagonal (1).fbx
+  artifactKey: Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Jog Backward Diagonal (1).fbx using Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bf19ac0d5fd1329a668592b91d8c8ab') in 0.004847 seconds
+  Import took 0.006491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/xbot@Standing Torch Run Left.fbx
+  artifactKey: Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Standing Torch Run Left.fbx using Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ff0c15b0b9b859860a17e7736f1e85') in 0.005030 seconds
+  Import took 0.006383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/xbot@Happy Idle.fbx
+  artifactKey: Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Happy Idle.fbx using Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0c5d8bf9300592ec9603b5e58efe878') in 0.005116 seconds
+  Import took 0.006322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/xbot.fbx
+  artifactKey: Guid(abc4141764cfe414a81c5227c3ab46cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot.fbx using Guid(abc4141764cfe414a81c5227c3ab46cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4720f52f43a953bffb199aa90bf576e') in 0.715538 seconds
+  Import took 0.717125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/xbot@Slow Jog Backwards.fbx
+  artifactKey: Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/xbot@Slow Jog Backwards.fbx using Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e141e5d349a88d56f58f22dcc790c332') in 0.004421 seconds
+  Import took 0.005995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.597020 seconds.
+  path: Assets/Animation template
+  artifactKey: Guid(5a539964d1aff40c9b5a16497502e790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template using Guid(5a539964d1aff40c9b5a16497502e790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374926f9961d9abd2c20c462e86cd634') in 0.001009 seconds
+  Import took 0.002263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038412 seconds.
+  path: Assets/Animation template
+  artifactKey: Guid(5a539964d1aff40c9b5a16497502e790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template using Guid(5a539964d1aff40c9b5a16497502e790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '374926f9961d9abd2c20c462e86cd634') in 0.000939 seconds
+  Import took 0.002219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.983048 seconds.
+  path: Assets/Animation template/Models
+  artifactKey: Guid(841bb0c4d2fda4cf1855304a9a1bfdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Models using Guid(841bb0c4d2fda4cf1855304a9a1bfdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3c15f8e93e81a054840d966405355e') in 0.001031 seconds
+  Import took 0.002813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.263307 seconds.
+  path: Assets/Animation template/Animations&controls
+  artifactKey: Guid(db047d13e1ca34441a2b0b87a10ff382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls using Guid(db047d13e1ca34441a2b0b87a10ff382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10148d873c22c54e13374dd544a6a627') in 0.001135 seconds
+  Import took 0.002686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.045838 seconds.
+  path: Assets/Animation template/Scripts
+  artifactKey: Guid(d72b14c36c2af4130ae4f4b738a8de0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Scripts using Guid(d72b14c36c2af4130ae4f4b738a8de0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b395798214a2e4a932d0837f4345399') in 0.001104 seconds
+  Import took 0.002655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 372.958884 seconds.
+  path: Assets/Animation template/Models/xbot.fbx
+  artifactKey: Guid(abc4141764cfe414a81c5227c3ab46cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Models/xbot.fbx using Guid(abc4141764cfe414a81c5227c3ab46cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7d0c212ccad40b44b18f27fc411753') in 0.055399 seconds
+  Import took 0.058067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.370996 seconds.
+  path: Assets/Animation template/Models/xbot.fbx
+  artifactKey: Guid(abc4141764cfe414a81c5227c3ab46cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Models/xbot.fbx using Guid(abc4141764cfe414a81c5227c3ab46cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eaed26cb11896da25f3829b967dce5f') in 0.039809 seconds
+  Import took 0.041539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 44.441905 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx
+  artifactKey: Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx using Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762a6bc27249fccae9973cbc3ca87952') in 0.007674 seconds
+  Import took 0.009603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx
+  artifactKey: Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx using Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa367d58c26345ec7ee6f8dab5265ef') in 0.003369 seconds
+  Import took 0.004730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal (1).fbx
+  artifactKey: Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal (1).fbx using Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5ca1d8b4f1c764b33e0ac81de2c9aa0') in 0.003554 seconds
+  Import took 0.004972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal.fbx
+  artifactKey: Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal.fbx using Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e1fee9bd4f4ef05777d983c67f3a9a') in 0.003360 seconds
+  Import took 0.004729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal.fbx
+  artifactKey: Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal.fbx using Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd30c5b18f3fb99b3868c0acb56c1d033') in 0.003748 seconds
+  Import took 0.005145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx
+  artifactKey: Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx using Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84f3ee23510cb6d2333d7d98bbb8bd8') in 0.003783 seconds
+  Import took 0.005280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal (1).fbx
+  artifactKey: Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal (1).fbx using Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da3234920d80c9f128cb90a9c6c3ec2') in 0.004512 seconds
+  Import took 0.006010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx
+  artifactKey: Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx using Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ed977356872ff4bca2c0a6979951b4') in 0.003936 seconds
+  Import took 0.005451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx
+  artifactKey: Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx using Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '904a842b115a003bb44a3491779219f2') in 0.003772 seconds
+  Import took 0.005271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.323325 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx
+  artifactKey: Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx using Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9ade223c6187c833023146155c69d24') in 0.004421 seconds
+  Import took 0.006095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx
+  artifactKey: Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx using Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e0fe00a8acff9633a889fd3d2eb5fa') in 0.003453 seconds
+  Import took 0.004830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal (1).fbx
+  artifactKey: Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal (1).fbx using Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a0c18cdf148a1a4f838afa0346726e') in 0.003455 seconds
+  Import took 0.004781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal.fbx
+  artifactKey: Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal.fbx using Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f6080a009af37feb61c918d9f3b0b2') in 0.003420 seconds
+  Import took 0.004744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal.fbx
+  artifactKey: Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal.fbx using Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1650b06ff8e9d9dff25738beafaf9ae') in 0.003425 seconds
+  Import took 0.004812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx
+  artifactKey: Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx using Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c738cbe44b7d8557bf952157a5590069') in 0.003605 seconds
+  Import took 0.005020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal (1).fbx
+  artifactKey: Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal (1).fbx using Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e6c96e7fa34a12ad69726502e8e89b7') in 0.003824 seconds
+  Import took 0.005249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx
+  artifactKey: Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx using Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067b2f96d2b892e8fb92bb012f8b45c4') in 0.004154 seconds
+  Import took 0.005678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx
+  artifactKey: Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx using Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f9ebdc1a712f8a6e90b4c4fd945cc0f') in 0.003791 seconds
+  Import took 0.005403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 294.356863 seconds.
+  path: Assets/Animation template/Animations&controls/PlayerAnimatorController.controller
+  artifactKey: Guid(5647faaca15b94cf7bc4962ee68936c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/PlayerAnimatorController.controller using Guid(5647faaca15b94cf7bc4962ee68936c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef013228497adba7b3f9e274811cd54b') in 0.053730 seconds
+  Import took 0.055244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 436.680017 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx
+  artifactKey: Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx using Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95503f9bd4f924ec8a64791611ffebf3') in 0.006014 seconds
+  Import took 0.007914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010305 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx
+  artifactKey: Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx using Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95503f9bd4f924ec8a64791611ffebf3') in 0.005052 seconds
+  Import took 0.006785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.886564 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal (1).fbx
+  artifactKey: Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal (1).fbx using Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e2e0224e73e03121b5c82b8f9ff26c') in 0.004932 seconds
+  Import took 0.006751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004855 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal (1).fbx
+  artifactKey: Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal (1).fbx using Guid(18afb0603c8be4107a837d2fae1e2c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29e2e0224e73e03121b5c82b8f9ff26c') in 0.004726 seconds
+  Import took 0.006381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.541679 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal.fbx
+  artifactKey: Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal.fbx using Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02576e82b1495af0bc272ef2545988da') in 0.004947 seconds
+  Import took 0.006714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004427 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal.fbx
+  artifactKey: Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Backward Diagonal.fbx using Guid(9d3497663ff36474fb5e883faa54eb63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02576e82b1495af0bc272ef2545988da') in 0.004670 seconds
+  Import took 0.006307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.498445 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal (1).fbx
+  artifactKey: Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal (1).fbx using Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df65e671a72fff4cb6ce5c8110df1169') in 0.005006 seconds
+  Import took 0.006818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004417 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal (1).fbx
+  artifactKey: Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal (1).fbx using Guid(3d6a0373212da4712b4f5a594522f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df65e671a72fff4cb6ce5c8110df1169') in 0.004841 seconds
+  Import took 0.006632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.056756 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal.fbx
+  artifactKey: Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal.fbx using Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59350b19818d6ee927bddcaa4af63382') in 0.005072 seconds
+  Import took 0.006882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004748 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal.fbx
+  artifactKey: Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jog Forward Diagonal.fbx using Guid(717697f4f36694fb1889d8d188fb2518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59350b19818d6ee927bddcaa4af63382') in 0.004507 seconds
+  Import took 0.006168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.144264 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx
+  artifactKey: Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx using Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e17b61fd05f7808e990d19ae23c12d1') in 0.005205 seconds
+  Import took 0.007083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004589 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx
+  artifactKey: Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx using Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e17b61fd05f7808e990d19ae23c12d1') in 0.004851 seconds
+  Import took 0.006484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.623661 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx
+  artifactKey: Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx using Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e234c84c663e9e71b4d6b71e05e56bff') in 0.005026 seconds
+  Import took 0.006856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004946 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx
+  artifactKey: Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx using Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e234c84c663e9e71b4d6b71e05e56bff') in 0.004963 seconds
+  Import took 0.006723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.811399 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx
+  artifactKey: Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx using Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0de23787680c4470391f2059d63773') in 0.004916 seconds
+  Import took 0.006724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004772 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx
+  artifactKey: Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx using Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0de23787680c4470391f2059d63773') in 0.004690 seconds
+  Import took 0.006336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.242921 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx
+  artifactKey: Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx using Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5595c0ac7964b81c65bac0b235d842b6') in 0.005096 seconds
+  Import took 0.006747 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000721 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.506 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.1 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1604.
+Total: 1.164708 ms (FindLiveObjects: 0.098958 ms CreateObjectMapping: 0.022500 ms MarkObjects: 0.986458 ms  DeleteObjects: 0.055875 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2437.434905 seconds.
+  path: Assets/Animation template/Scripts/PlayerMovement.cs
+  artifactKey: Guid(83b4fbb7e8bd547c0a3f87b4cf78fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Scripts/PlayerMovement.cs using Guid(83b4fbb7e8bd547c0a3f87b4cf78fb10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee29b3ce5c0cde600a7b0f5b23635c53') in 0.150154 seconds
+  Import took 0.154540 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000311 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.640 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.6 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1608.
+Total: 1.225333 ms (FindLiveObjects: 0.116208 ms CreateObjectMapping: 0.023459 ms MarkObjects: 1.027209 ms  DeleteObjects: 0.057625 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.651 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.8 MB.
+System memory in use after: 146.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1611.
+Total: 1.185125 ms (FindLiveObjects: 0.108916 ms CreateObjectMapping: 0.022750 ms MarkObjects: 0.991833 ms  DeleteObjects: 0.061042 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.039140 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.703 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.0 MB.
+System memory in use after: 147.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1614.
+Total: 1.244750 ms (FindLiveObjects: 0.113583 ms CreateObjectMapping: 0.023917 ms MarkObjects: 1.045500 ms  DeleteObjects: 0.060917 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.548 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.2 MB.
+System memory in use after: 147.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1617.
+Total: 1.557583 ms (FindLiveObjects: 0.155458 ms CreateObjectMapping: 0.029166 ms MarkObjects: 1.299625 ms  DeleteObjects: 0.072333 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000994 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.605 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.3 MB.
+System memory in use after: 147.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1620.
+Total: 1.110458 ms (FindLiveObjects: 0.102583 ms CreateObjectMapping: 0.022166 ms MarkObjects: 0.938000 ms  DeleteObjects: 0.046916 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2128.015109 seconds.
+  path: Assets/Animation template/Animations&controls/ControllerwithBlend.controller
+  artifactKey: Guid(24c2007c2108f44a8a7f85b53170a8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/ControllerwithBlend.controller using Guid(24c2007c2108f44a8a7f85b53170a8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60b4f860cb414c85041f7ba0f026f968') in 0.018035 seconds
+  Import took 0.019470 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000631 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.575 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.6 MB.
+System memory in use after: 147.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 1.222416 ms (FindLiveObjects: 0.123417 ms CreateObjectMapping: 0.024250 ms MarkObjects: 1.013209 ms  DeleteObjects: 0.060584 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1796.005197 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx
+  artifactKey: Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Jogging Stumble.fbx using Guid(d6fe2396c666748269b85cada97a1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e82e1ff60d68b1771406093b720ad46') in 0.058723 seconds
+  Import took 0.060556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 89.013454 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx
+  artifactKey: Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Happy Idle.fbx using Guid(68ad5a5cd2902482a9dd5580324421a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a497d4099f516839ecbff555caa103c') in 0.005279 seconds
+  Import took 0.007222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.355166 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx
+  artifactKey: Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx using Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29b4e69bb2af8cdd6307bc25735d0be4') in 0.010178 seconds
+  Import took 0.013098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.772088 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx
+  artifactKey: Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx using Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32114b0e1c6c4836eb5aded9659b82c1') in 0.006458 seconds
+  Import took 0.009611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000926 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx
+  artifactKey: Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left (1).fbx using Guid(198d60b55f05647fc9b7be4518cadc70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32114b0e1c6c4836eb5aded9659b82c1') in 0.003597 seconds
+  Import took 0.005217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.290411 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx
+  artifactKey: Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx using Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c6158166113bd8a30fbd1aa8f8f2ed') in 0.004301 seconds
+  Import took 0.006017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001972 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx
+  artifactKey: Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx using Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c6158166113bd8a30fbd1aa8f8f2ed') in 0.003707 seconds
+  Import took 0.005525 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000948 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.557 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.8 MB.
+System memory in use after: 147.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 1.231291 ms (FindLiveObjects: 0.114209 ms CreateObjectMapping: 0.023375 ms MarkObjects: 1.034042 ms  DeleteObjects: 0.058791 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 252.756136 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx
+  artifactKey: Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Slow Jog Backwards.fbx using Guid(990479b86627b49fdbc34a22b462025c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df063b38c99bc4857f797c6710d10466') in 0.054412 seconds
+  Import took 0.056384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.881994 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx
+  artifactKey: Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx using Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a80220fd046db6b399d4c04022e3e89') in 0.006451 seconds
+  Import took 0.009512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx
+  artifactKey: Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation template/Animations&controls/xbot@Standing Torch Run Left.fbx using Guid(75ba76adbfd2b4b1c9c60ddb1bf60555) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a80220fd046db6b399d4c04022e3e89') in 0.004149 seconds
+  Import took 0.005805 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000763 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.501 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.0 MB.
+System memory in use after: 148.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 1.152875 ms (FindLiveObjects: 0.112500 ms CreateObjectMapping: 0.022208 ms MarkObjects: 0.970667 ms  DeleteObjects: 0.046917 ms)
+

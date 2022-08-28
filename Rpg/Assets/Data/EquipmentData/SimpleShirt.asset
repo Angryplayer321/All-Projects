@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a0a7a36c8d8d4aa5ba9c407dea29d8b, type: 3}
+  m_Name: SimpleShirt
+  m_EditorClassIdentifier: 
+  equipmentType: 2
+  equipmentSMR: {fileID: 2120107413857406419, guid: c84a77f10b4f34813b0019ca51827662, type: 3}
+  equipmentIcon: {fileID: 0}
+  equipmentName: 
+  equipmentHealth: 0
+  EquipmentDamageProtection: 0

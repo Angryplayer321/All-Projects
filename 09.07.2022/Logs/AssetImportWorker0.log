@@ -1,0 +1,145 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ayxanagayev/Desktop/GitHubProjects/16.06.2022/09.07.2022
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49743
+Successfully changed project path to: /Users/ayxanagayev/Desktop/GitHubProjects/16.06.2022/09.07.2022
+/Users/ayxanagayev/Desktop/GitHubProjects/16.06.2022/09.07.2022
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ayxanagayev/Desktop/GitHubProjects/16.06.2022/09.07.2022/Assets
+GfxDevice: creating device client; threaded=0
+2022-07-09 11:46:35.000 Unity[3628:85705] (null) preferred device: Apple M1 (high power)
+2022-07-09 11:46:35.000 Unity[3628:85705] Metal devices available: 1
+2022-07-09 11:46:35.000 Unity[3628:85705] 0: Apple M1 (high power)
+2022-07-09 11:46:35.000 Unity[3628:85705] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56628
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001832 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 48.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.924 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001602 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 42.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.766 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2541 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.1 MB.
+System memory in use after: 193.3 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 2947.
+Total: 2.828041 ms (FindLiveObjects: 0.196500 ms CreateObjectMapping: 0.054250 ms MarkObjects: 1.312166 ms  DeleteObjects: 1.264041 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/EmissionMaterial.mat
+  artifactKey: Guid(7647414df13df4a2ba2af24c39e5e091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmissionMaterial.mat using Guid(7647414df13df4a2ba2af24c39e5e091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add151264566ee116e65540af37e2262') in 0.687811 seconds
+  Import took 0.692097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.500131 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(2d7f48a2038b44c3ca5998a60ca65087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(2d7f48a2038b44c3ca5998a60ca65087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3b5f399b582f253d9cf4cc73480d5d') in 0.002019 seconds
+  Import took 0.004908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004386 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(2d7f48a2038b44c3ca5998a60ca65087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(2d7f48a2038b44c3ca5998a60ca65087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3b5f399b582f253d9cf4cc73480d5d') in 0.001524 seconds
+  Import took 0.004750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.287098 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.002298 seconds
+  Import took 0.014845 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001278 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.769 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.7 MB.
+System memory in use after: 198.0 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 3028.
+Total: 2.668583 ms (FindLiveObjects: 0.163834 ms CreateObjectMapping: 0.049708 ms MarkObjects: 1.282875 ms  DeleteObjects: 1.171333 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 751.777156 seconds.
+  path: Assets/EmissionMaterial.mat
+  artifactKey: Guid(7647414df13df4a2ba2af24c39e5e091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EmissionMaterial.mat using Guid(7647414df13df4a2ba2af24c39e5e091) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e6a4bcf6825dd9d63a74c4011f8041') in 0.513455 seconds
+  Import took 0.517687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(6f79b49ebd1d74c55af8577857831f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(6f79b49ebd1d74c55af8577857831f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef0533057f63431e9acaab523e37a95') in 0.018997 seconds
+  Import took 0.021758 seconds .
+

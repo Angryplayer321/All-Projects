@@ -1,0 +1,195 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ayxanagayev/Desktop/GitHubProjects/14.06.2022/21.06.2022
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53909
+Successfully changed project path to: /Users/ayxanagayev/Desktop/GitHubProjects/14.06.2022/21.06.2022
+/Users/ayxanagayev/Desktop/GitHubProjects/14.06.2022/21.06.2022
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ayxanagayev/Desktop/GitHubProjects/14.06.2022/21.06.2022/Assets
+GfxDevice: creating device client; threaded=0
+2022-06-21 19:35:02.970 Unity[6790:369617] (null) preferred device: Apple M1 (high power)
+2022-06-21 19:35:02.970 Unity[6790:369617] Metal devices available: 1
+2022-06-21 19:35:02.970 Unity[6790:369617] 0: Apple M1 (high power)
+2022-06-21 19:35:02.971 Unity[6790:369617] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56790
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.9f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001675 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 22.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.668 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.611 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.9f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.20 seconds
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.8 MB.
+System memory in use after: 115.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1557.
+Total: 1.172666 ms (FindLiveObjects: 0.083917 ms CreateObjectMapping: 0.023125 ms MarkObjects: 0.990167 ms  DeleteObjects: 0.074750 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/archer (1).fbx
+  artifactKey: Guid(aaf129c2cca1340a4a344918908a875f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/archer (1).fbx using Guid(aaf129c2cca1340a4a344918908a875f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549789844a511b89a9f7e9b54c0738aa') in 0.849925 seconds
+  Import took 0.852693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.951022 seconds.
+  path: Assets/archerSword_And_Shield_Slash.fbx
+  artifactKey: Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/archerSword_And_Shield_Slash.fbx using Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7edb32c857b9acd31471667a5028da7f') in 0.006603 seconds
+  Import took 0.008777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.017849 seconds.
+  path: Assets/archer_DefaultMaterial_BaseColor.png
+  artifactKey: Guid(e0a764b2f57e04772ac2cf512ac3baf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/archer_DefaultMaterial_BaseColor.png using Guid(e0a764b2f57e04772ac2cf512ac3baf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b78119e938388ba4d1b8c1e1c0206f') in 0.557231 seconds
+  Import took 0.558779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.698351 seconds.
+  path: Assets/archer (1).fbx
+  artifactKey: Guid(aaf129c2cca1340a4a344918908a875f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/archer (1).fbx using Guid(aaf129c2cca1340a4a344918908a875f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5fbe207ec2350d07ec5084aad51bc4') in 0.032765 seconds
+  Import took 0.036710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.509522 seconds.
+  path: Assets/archerSword_And_Shield_Slash.fbx
+  artifactKey: Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/archerSword_And_Shield_Slash.fbx using Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9c90ebd2ef4af79b6ceccd80912fe8') in 0.004440 seconds
+  Import took 0.006564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006339 seconds.
+  path: Assets/archerSword_And_Shield_Slash.fbx
+  artifactKey: Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/archerSword_And_Shield_Slash.fbx using Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9c90ebd2ef4af79b6ceccd80912fe8') in 0.004063 seconds
+  Import took 0.005810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.788331 seconds.
+  path: Assets/archerSword_And_Shield_Slash.fbx
+  artifactKey: Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/archerSword_And_Shield_Slash.fbx using Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f88082fe909da40e71f8d8d3ffd2c3') in 0.004807 seconds
+  Import took 0.006864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000613 seconds.
+  path: Assets/archerSword_And_Shield_Slash.fbx
+  artifactKey: Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/archerSword_And_Shield_Slash.fbx using Guid(d22ac1f31227148dcb10c2fa65fc2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31f88082fe909da40e71f8d8d3ffd2c3') in 0.004053 seconds
+  Import took 0.005602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.772599 seconds.
+  path: Assets/CharacterAnimationController.controller
+  artifactKey: Guid(0c308fbdf0c294a0f91369d3742242c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CharacterAnimationController.controller using Guid(0c308fbdf0c294a0f91369d3742242c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4b32b52ccc5be4d9b1c3f4b35edc84') in 0.087110 seconds
+  Import took 0.088626 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000923 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.771 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.9 MB.
+System memory in use after: 145.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 2.006916 ms (FindLiveObjects: 0.341250 ms CreateObjectMapping: 0.073750 ms MarkObjects: 1.472042 ms  DeleteObjects: 0.118375 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 455.589936 seconds.
+  path: Assets/real katana.fbx
+  artifactKey: Guid(7490f30d909de4bfca0d028134c47d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/real katana.fbx using Guid(7490f30d909de4bfca0d028134c47d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7ed0cb428c173ea67920e569d00487') in 0.316571 seconds
+  Import took 0.318474 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001032 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.680 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.5 MB.
+System memory in use after: 146.6 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 1.267916 ms (FindLiveObjects: 0.135250 ms CreateObjectMapping: 0.022792 ms MarkObjects: 1.055791 ms  DeleteObjects: 0.053458 ms)
+
